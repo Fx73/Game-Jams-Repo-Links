@@ -2,6 +2,30 @@
 
 Les Game Jams sont des evenements de création de jeux, en quelques jours, sur un thème donné.
 
+<h2>Global Game Jam 2022</h2>
+Le thème était "duality"
+
+Nous avons fait un endless runner, dans lequel deux couleurs sont disponibles, et il faut passer à la couleur correspondante pour passer des portails.
+
+Le jeu :
+https://eikins.itch.io/thruster
+
+Le code :
+https://github.com/ThomasHerve/GGJ2022
+
+<h2>Global Game Jam 2021</h2>
+Le thème était "Lost & Found".
+
+Nous avons fait un dungeon crawler en 3D généré proceduralement, dans lequel le joueur doit trouver un livre.
+
+Le jeu est fait en C# sous Unity
+
+Le jeu :
+https://thomas-herve.itch.io/book-crawler
+
+Le code :
+
+
 
 <h2>Global Game Jam 2020</h2>
 Le thème était "Repair"
