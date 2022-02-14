@@ -7,6 +7,8 @@ Le thème était "duality"
 
 Nous avons fait un endless runner, dans lequel deux couleurs sont disponibles, et il faut passer à la couleur correspondante pour passer des portails.
 
+Le jeu est fait en C# sous Unity
+
 Le jeu :
 https://eikins.itch.io/thruster
 
