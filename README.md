@@ -2,6 +2,23 @@
 
 Les Game Jams sont des evenements de création de jeux, en quelques jours, sur un thème donné.
 
+<h2>Scientific Game Jam 2023</h2>
+
+Le jeu sera fait en C# sous Unity
+
+Le code :
+https://github.com/ThomasHerve/SGJ_2023
+
+<h2>Global Game Jam 2023</h2>
+Le thème était "Roots"
+
+Le jeu est fait en C# sous Unity
+
+Le jeu :
+https://globalgamejam.org/2023/games/rooted-4
+Le code :
+https://github.com/48Games/GlobalGameJam-2023
+
 <h2>Global Game Jam 2022</h2>
 Le thème était "duality"
 
@@ -11,7 +28,6 @@ Le jeu est fait en C# sous Unity
 
 Le jeu :
 https://eikins.itch.io/thruster
-
 Le code :
 https://github.com/ThomasHerve/GGJ2022
 
@@ -24,7 +40,6 @@ Le jeu est fait en C# sous Unity
 
 Le jeu :
 https://thomas-herve.itch.io/book-crawler
-
 Le code :
 
 
@@ -38,7 +53,6 @@ Le jeu est fait en C# sous Unity
 
 Le jeu :
 https://pholothe1.itch.io/bot-drop
-
 Le code :
 https://github.com/Lysfith/GGJ2020
 
